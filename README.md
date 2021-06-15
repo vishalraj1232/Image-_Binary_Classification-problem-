@@ -1,5 +1,6 @@
 # Image-_Binary_Classification-problem-
 Image classifier with deep learning (CNN and Keras)
+
 Author: Vishal Raj(vj)
 ## Problem Formulation :
  In this Section we are implementing Convolution Neural Network(CNN) Classifier for Classifying "apple" and "not apple" images. 
