@@ -51,7 +51,7 @@ Activation Function: ReLu
 
 Dense Size: 2
 
-Activation Function: Sigmoid
+Activation Function: Softmax
 
 * Optimizer: Adam
 * Loss: Binary Crossentropy
