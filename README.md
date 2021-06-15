@@ -1,4 +1,4 @@
-# Image-_Binary_Classification-problem-
+# Image_Binary_Classification-problem-
 Image classifier with deep learning (CNN and Keras)
 
 Author: Vishal Raj(vj)
